@@ -30,8 +30,8 @@ This project is created using: https://github.com/rhasspy/piper
                 }
            ]
         }
-```
-  - /audio-unico
+      ```
+- /audio-unico
 ```json
         {
             "texto": "Olá #NOME# Um passarinho acabou de me contar que você fez cadastro na plataforma #PLATAFORMA# estamos muito felizes em ter você como o mais novo #STATUS#",
