@@ -1,6 +1,7 @@
 # TTS-AI
 
-This project is created using: https://github.com/rhasspy/piper
+This project was created using: https://github.com/rhasspy/piper
+Supported Voices: https://huggingface.co/rhasspy/piper-voices/tree/v1.0.0
 
 
 # Exemplos de requisição:
