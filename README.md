@@ -4,6 +4,7 @@ This project was created using: https://github.com/rhasspy/piper
 
 Supported Voices: https://huggingface.co/rhasspy/piper-voices/tree/v1.0.0
 
+The words that are between ## will be replaced by the array of substitutions sent in the request parameters.
 
 # Exemplos de requisição:
 ## /segmentar-audio
