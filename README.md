@@ -1,3 +1,3 @@
 # TTS-AI
 
-This project is created using the: https://github.com/rhasspy/piper
+This project is created using: https://github.com/rhasspy/piper
