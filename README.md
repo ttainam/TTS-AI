@@ -4,7 +4,7 @@ This project is created using: https://github.com/rhasspy/piper
 
 
 # Exemplos de requisição:
-- /segmentar-audio
+## /segmentar-audio
 ```json
       {
         "texto": "Olá #NOME# Um passarinho acabou de me contar que você fez cadastro na plataforma #PLATAFORMA# estamos muito felizes em ter você como o mais novo #STATUS#",
@@ -12,6 +12,7 @@ This project is created using: https://github.com/rhasspy/piper
       }
 
 ```
+Retorna um zip com os audios segmentados.
 - /juntar-audio
 ```json
         {
@@ -31,6 +32,7 @@ This project is created using: https://github.com/rhasspy/piper
            ]
         }
 ```
+Retorna um zip com os audios juntados das N substituições.
 - /audio-unico
 ```json
         {
@@ -45,3 +47,4 @@ This project is created using: https://github.com/rhasspy/piper
            ]
         }
 ```
+Retorna um zip com os audios das N substituições.
