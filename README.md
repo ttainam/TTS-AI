@@ -5,13 +5,16 @@ This project is created using: https://github.com/rhasspy/piper
 
 # Exemplos de requisição:
 - /segmentar-audio
+```json
     params:
       {
         "texto": "Olá #NOME# Um passarinho acabou de me contar que você fez cadastro na plataforma #PLATAFORMA# estamos muito felizes em ter você como o mais novo #STATUS#",
         "voz": "pt_BR-faber-medium"
       }
 
+```
 - /juntar-audio
+  ```json
     params:
         {
             "texto": "Olá #NOME# Um passarinho acabou de me contar que você fez cadastro na plataforma #PLATAFORMA# estamos muito felizes em ter você como o mais novo #STATUS#",
@@ -29,8 +32,9 @@ This project is created using: https://github.com/rhasspy/piper
                 }
            ]
         }
-
+```
   - /audio-unico
+```json
       params:
         {
             "texto": "Olá #NOME# Um passarinho acabou de me contar que você fez cadastro na plataforma #PLATAFORMA# estamos muito felizes em ter você como o mais novo #STATUS#",
@@ -43,3 +47,4 @@ This project is created using: https://github.com/rhasspy/piper
                 }
            ]
         }
+```
