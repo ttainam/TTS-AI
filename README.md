@@ -13,7 +13,7 @@ This project is created using: https://github.com/rhasspy/piper
 
 ```
 - /juntar-audio
-  ```json
+```json
         {
             "texto": "Olá #NOME# Um passarinho acabou de me contar que você fez cadastro na plataforma #PLATAFORMA# estamos muito felizes em ter você como o mais novo #STATUS#",
             "voz": "pt_BR-faber-medium",
@@ -30,7 +30,7 @@ This project is created using: https://github.com/rhasspy/piper
                 }
            ]
         }
-      ```
+```
 - /audio-unico
 ```json
         {
