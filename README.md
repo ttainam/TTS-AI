@@ -25,7 +25,7 @@ This project is created using: https://github.com/rhasspy/piper
             "substituicoes": [
                 {
                     "#NOME#": "Tainam",
-                    "#PLATAFORMA#": "Disparo Pro",
+                    "#PLATAFORMA#": "TESTE",
                     "#STATUS#": "cliente"
                 }
            ]
@@ -39,7 +39,7 @@ This project is created using: https://github.com/rhasspy/piper
             "substituicoes": [
                 {
                     "#NOME#": "Tainam",
-                    "#PLATAFORMA#": "Disparo Pro",
+                    "#PLATAFORMA#": "TESTE",
                     "#STATUS#": "cliente"
                 }
            ]
